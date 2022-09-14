@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect)
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![footer](https://capsule-render.vercel.app/api?section=rect)
 
 <!--
 **jaykayBaek/jaykayBaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
