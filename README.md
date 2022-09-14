@@ -1,6 +1,7 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><h3 dir="auto">🖐 Hello, there</h3><br>
- 😀 Hi, I'm Jeong-kwang Baek but I go by Jacob, <b>Jake</b> plz.🐱‍🏍<br>
- I'm learning JAVA now and wanna be a full stack developer.<br><br>
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><h3 dir="auto">🖐 Hello, there</h3>
+Hi, I'm Jeong-kwang Baek but I go by Jacob, <b>Jake</b> plz.🐱‍🏍<br>
+ I'm learning JAVA now and wanna be a full stack developer.<br>
+ I've interested in the developer, and started studying 'cause it seemed to suit my aptitude.<br><br>
  I love reading a books, watching movies and anime. 📚 🎥<br>
 </p>
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/techBlog-0291FF?style=flat-square&logo=Blogger&logoColor=white"/></a>
