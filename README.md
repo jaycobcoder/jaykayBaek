@@ -11,5 +11,3 @@ Hi, I'm Jeong-kwang Baek but I go by Jacob, <b>Jake</b> plz.😀<br>
 
  
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><h3 dir="auto">🛠 My Skills</h3>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-5382A1?style=flat-square&logo=CoffeeScript&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-5382A1?style=flat-square"></a>
