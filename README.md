@@ -1,7 +1,5 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><h3 dir="auto">🖐 Hello, there</h3>
 Hi, I'm Jeong-kwang Baek but I go by Jacob, <b>Jake</b> plz.😀<br>
- I'm learning <b>Java</b> now and wanna be a full stack developer.<br>
- I'm growing everyday.✈<br><br>
  I love reading a books, watching movies and anime. 📚 🎥<br>
 </p>
 🎈Follow me!&nbsp&nbsp
