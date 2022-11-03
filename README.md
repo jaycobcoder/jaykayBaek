@@ -8,8 +8,8 @@
 </p>
 <p>
  I study everyday, and write down what I studied on my blog<br/>
- <b>Ko</b><a href="https://velog.io/@jaykaybaek" target="_blank"><img src="https://img.shields.io/badge/blog-0291FF?style=flat-square&logo=Blogger&logoColor=white"/></a>
-  <b>Eng</b><a href="https://jaykaybaek.github.io" target="_blank"><img src="https://img.shields.io/badge/blog-0291FF?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://velog.io/@jaykaybaek" target="_blank"><img src="https://img.shields.io/badge/blog-0291FF?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://jaykaybaek.github.io" target="_blank"><img src="https://img.shields.io/badge/blog-0291FF?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </p>
 🎈Follow me!&nbsp&nbsp
 <a href="https://https://velog.io/@jaykaybaek" target="_blank"><img src="https://img.shields.io/badge/blog-0291FF?style=flat-square&logo=Blogger&logoColor=white"/></a>
