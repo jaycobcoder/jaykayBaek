@@ -15,11 +15,9 @@
  <a href="mailto:jaykaybaek@gmail.com"><img src="https://img.shields.io/badge/jaykaybaek@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaykaybaek@gmail.com"/></a>
 </p>
 
-<img src="badge/style-flat--square-green
-          ?style=flat-square&logo=appveyor
-          &logo=Spring Boot
-          &logoColor=white
-          "/>
-          
-<img alt="flat-square" src="/badge/style-flat--square-green?logo=appveyor&amp;style=flat-square">
+<img src="https://img.shields.io/badge/
+          Spring-Boot-6DB33F?
+          style=for-the-badge&logo=Spring Boot&
+          logoColor=white">
+
 <hr/>
