@@ -9,14 +9,15 @@
 <p>
  <span>I study everyday, and write down what I studied on my blog🎯</span><br/>
 </p>
-<a href="https://jaykaybaek.tistory.com" target="_blank">
- <img src="https://img.shields.io/badge/myBlog-CD313A?style=flat-square&logo=Blogger&logoColor=white"/>
-</a>
 
 <p>
  <span>🎈Follow me!</span>
- <a href="mailto:jaykaybaek@gmail.com"><img src="https://img.shields.io/badge/jaykaybaek@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaykaybaek@gmail.com"/></a>
 </p>
+
+<a href="https://jaykaybaek.tistory.com" target="_blank">
+ <img src="https://img.shields.io/badge/MyBlog-fca311?style=flat-square&logo=Blogger&logoColor=white"/>
+</a>
+ <a href="mailto:jaykaybaek@gmail.com"><img src="https://img.shields.io/badge/jaykaybaek@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaykaybaek@gmail.com"/></a>
 
 <hr/>
 
