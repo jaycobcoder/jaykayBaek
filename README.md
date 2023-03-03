@@ -17,7 +17,9 @@
  <span>🎈Follow me!</span>
  <a href="mailto:jaykaybaek@gmail.com"><img src="https://img.shields.io/badge/jaykaybaek@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaykaybaek@gmail.com"/></a>
 </p>
+
 <hr/>
+
 <div align="center">
  <h2>🛠My Skills</h2>
  <div>
