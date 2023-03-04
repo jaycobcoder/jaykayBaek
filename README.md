@@ -9,7 +9,7 @@
 <p>
  <span>I study everyday, and write down what I studied on my blog🎯</span><br/>
 </p>
-
+<hr/>
 <p>
  <span>🎈Follow me!</span>
 </p>
