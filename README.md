@@ -3,6 +3,12 @@
 <p>
  Hi, I'm Jeong-kwang Baek but I go by Jacob, <b>Jake</b> plz.😀
 </p>
+<p>
+ I love reading a books, watching movies and anime. 📚🎥
+</p>
+<p>
+ I study everyday, and write down what I studied on my blog🎯
+</p>
 <hr/>
 <p>
  <span>🎈Follow me!</span>
