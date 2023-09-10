@@ -9,9 +9,6 @@
 <p>
  I study everyday, and write down what I studied on my blog🎯
 </p>
-<p>
- Online RESUME : <a href="https://obtainable-elm-65d.notion.site/c21dd32a5b684087a5dee3ad848f0a0a?pvs=4"><strong>온라인 이력서</strong></a>
-</p>
 <hr/>
 <p>
  <span>🎈Follow me!</span>
